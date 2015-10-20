@@ -59,10 +59,7 @@ background:#FFFFCC;
 
 #section-facts {
    vertical-align: top;
-   height: 100%;
-  
-  
-  
+   height: 100%; 
 }
 
 #section-dreams {
@@ -101,7 +98,6 @@ background:#FFFFCC;
 }
 
 #familypic {
-	
 	margin: 0px 15px 15px 0px;
 	padding-right: 5px;
 	padding-top: 25px;
@@ -123,7 +119,6 @@ background:#FFFFCC;
 
 
 #footer-two {
-	height: 75px;
 	position: bottom;
 	color: #ffffff;
 	text-align: center;
